@@ -2,11 +2,11 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
 
-Kirjoita tähän vastauksesi
+Haastavinta oli käsitellä tilanteita, joissa paikallinen haara oli jäljessä etäreposta. Oppimista auttoi se, että kokeilin komentoja käytännössä ja katsoin rauhassa, miten haarat muuttuivat.
 
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
 | --------| ------ |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
+| git merge | Yhdistää haaran nykyiseen haaraan |
+| git pull | Hakee etärepositoryn muutokset ja yhdistää ne paikalliseen haaraan |

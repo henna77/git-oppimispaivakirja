@@ -10,3 +10,10 @@ Helppoa oli ymmärtää Gitin perusidea. Opin nopeasti käyttämään git status
 | --------| ------ |
 | git init | Luo uuden paikallisen git-repositorion |
 | git status | Näyttää working directoryn ja staging area tilan |
+| git clone | Kopioi git-repositorion |
+| git add | Otetaan mukaan seuraavaan talletukseen |
+| git commit -m| Talletus ja kommentointi |
+| git log | Näkee talletusten historian |
+| git rm | Poistaa tiedoston |
+| git reset | add komennon postaminen |
+| git restore | Peruuttaa työtilassa tehdyt muutokset |

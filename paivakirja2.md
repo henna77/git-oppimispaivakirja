@@ -10,3 +10,9 @@ Haastavinta oli käsitellä tilanteita, joissa paikallinen haara oli jäljessä 
 | --------| ------ |
 | git merge | Yhdistää haaran nykyiseen haaraan |
 | git pull | Hakee etärepositoryn muutokset ja yhdistää ne paikalliseen haaraan |
+| git branch | Luo uuden haaran |
+| git switch | Haaran vaihto |
+| git remote | listaa etärepositoriot |
+| git fetch origin | Lataa etärepositorion tiedot paikalliseen repositorioon |
+| git push origin master | Synkronoi paikallisen repositorian etärepositorioon |
+
